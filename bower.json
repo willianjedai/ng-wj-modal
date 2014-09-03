@@ -1,0 +1,20 @@
+{
+  "name": "ng-modal",
+  "version": "0.0.0",
+  "homepage": "https://github.com/willianjedai/ng-wj-modal",
+  "authors": [
+    "Willian R. Sabião <willianjedai@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.2.22",
+    "express": "*"
+  }
+}
