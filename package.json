@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/willianjedai/ng-wj-modal/issues"
   },
-  "homepage": "https://github.com/willianjedai/ng-wj-modal"
+  "homepage": "https://github.com/willianjedai/ng-wj-modal",
+  "devDependencies": {
+    "gulp": "^3.8.7"
+  }
 }
